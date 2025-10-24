@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: apoorvarameshac/python-app:replacement-tag
+        image: apoorvar12/python-app:v1.0.32
         ports:
         - containerPort: 5000
